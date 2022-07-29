@@ -1,0 +1,51 @@
+/*header*/
+.header{
+    width: 100%;
+    height: 50px;
+    background-color: #F6F8F9;
+    position: fixed;
+    top: 0;
+    left: 0; 
+    width: 100%;
+}
+.navigation{
+    display: inline-block;
+    vertical-align: middle;
+    margin-top: 20px;
+    margin-right: 40px;
+    margin-bottom: 18px;
+    
+}
+.nav-li{
+    display: inline-block;
+}
+.mainlogo{
+    vertical-align: middle;
+    margin: 18px 92px 17px 20px ;
+}
+.smallphoto{
+
+    vertical-align: middle;
+    margin-top: 11px;
+    margin-bottom: 9px;
+
+}
+
+.nav-item{
+    font-family: 'Helvetica';
+    font-size: 11px;
+    color: rgb(180, 180, 180)
+
+}
+
+.active{
+    color: #343638;
+}
+.nav-item2{
+    margin-left: 27px;
+    margin-right: 22px;
+}
+.nav-item3{
+    margin-right: 22px;
+}
+
