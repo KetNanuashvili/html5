@@ -1,3 +1,6 @@
+.body{
+    padding-top: 50px;
+}
 /*header*/
 .header{
     width: 100%;
@@ -47,5 +50,72 @@
 }
 .nav-item3{
     margin-right: 22px;
+}
+
+/* first div*/
+.topsection{
+    width: 1160px;
+    margin: 25px auto 0 ;
+    background-color: #F6F8F9;
+}
+.maintitle{
+    font-size: #202124;
+    font-family: 'Helvetica';
+    margin-bottom: 40px;
+}
+/*small thhree divs*/
+.threeblocks{
+    width: 360px;
+    height: 350px;
+    position: relative;
+   
+}
+.between-paragrap{
+    font-size: 16px;
+    font-family: 'Helvetica';
+    color: #FFFFFF;
+    position: absolute;
+    top: 28px;
+    right: 40px;
+    left: 40px;
+    bottom: 305px;
+    
+}
+.smalldiv{
+    width: 360;
+    margin-top: 66px;
+}
+.paragrap{
+    font-size: 13px;
+    margin: 0 40px;
+    color: #A6ADB4;
+    font-family: 'Acumin Pro';
+}
+.timer{
+    margin-top: 10px;
+    margin-left: 40px;
+    display: inline-block;
+    vertical-align: middle;
+}
+.time-ago{
+    display: inline-block;
+    font-family: 'Helvetica';
+    font-size: 13px;
+    margin-top: 11px;
+    margin-left: 10px;
+    color: #A6ADB4;
+    vertical-align: middle;
+
+}
+.threeblocks1{
+    display: inline-block;
+}
+.threeblocks2{
+    display: inline-block;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+.threeblocks3{
+    display: inline-block;
 }
 
