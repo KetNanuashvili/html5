@@ -55,8 +55,10 @@
 /* first div*/
 .topsection{
     width: 1160px;
+    height: 410px;
     margin: 25px auto 0 ;
     background-color: #F6F8F9;
+    
 }
 .maintitle{
     font-size: #202124;
@@ -118,4 +120,65 @@
 .threeblocks3{
     display: inline-block;
 }
+/*bottom section*/
+.bottomsection{
+    width: 1160px;
+    margin: 58px auto 0 ;
+    background-color: #F6F8F9;   
+}
+.secondtitle{
+    font-size: 24px;
+    font-family: 'Helvetica';
+    margin-bottom: 40px;
+    
+}
+/*left-block*/
+
+.leftblock{
+    display: inline-block;
+    width: 760px;
+    height: 900px;
+    vertical-align: top;
+   
+}
+.page{
+    width: 760px;
+    height: 430px;
+    position: relative;
+    margin-bottom: 40px;
+}
+
+.smallparagrap{
+    font-size: 16px;
+    font-family: 'Helvetica';
+    color: black;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+     
+}
+/* right block'*/
+.rightblock{
+    display: inline-block;
+    width: 360px;
+    background-color: #F6F8F9;
+    margin-left: 40px;
+    vertical-align: top;
+   
+    
+}
+.elephant{
+    margin-bottom: 102px;
+}
+.bird{
+    margin-bottom: 102px;
+}
+.road{
+    margin-bottom: 103px;
+}
+
+/*footer*/
+
+
 
