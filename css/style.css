@@ -139,6 +139,7 @@
     width: 760px;
     height: 900px;
     vertical-align: top;
+    margin-bottom: 37px;
    
 }
 .page{
@@ -179,6 +180,87 @@
 }
 
 /*footer*/
+.footer{
+    width: 100%;
+    height: 200px;
+    background-color: #A6ADB4;
+    padding-top: 56px;
+    
+
+}
+.first-div{
+    width: 486.09px;
+    height: 81px;
+    margin-bottom: 60px;
+    margin-left: 142px;
+    vertical-align: middle;
+    display: inline-block;
+}
+/*paragrap*/
+.seconddiv{
+    display: inline-block;
+    vertical-align: top;
+    
+}
+/*ul tags*/
+.logo2{
+    vertical-align: top;
+}
+.uldivs{
+    display: inline-block;
+    vertical-align: top;
+    margin-right:60.7px ;
+    margin-left: 53.1px; 
+}
+.uldivs2{
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 72.2px ;
+  
+   
+}
+.uldivs3{
+    display: inline-block;
+    vertical-align: top;
+}
+.li{
+    font-size: 13px;
+    font-family: Helvetica;
+    color: #CBD0D3;
+    line-height: 20px;
+
+}
+.li1{
+    margin-bottom: 5px;
+}
+.li3{
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+/*paragrap*/
+.paragrapfooter{
+    font-size: 11px;
+    color:#CBD0D3;
+    font-family: Helvetica;
+
+}
+
+/*third div*/
+.third-div{
+    width: 160px;
+    height: 16px;
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 165.2px;
+}
+.instagramicon{
+    margin-right: 32px;
+}
+.facebookicon{
+    margin-right: 32px;
+    margin-left: 32px;
+}
+
 
 
 
